@@ -1,3 +1,2 @@
 After gaining experience in multiple fields, I decided to pursue my passion for web and app development. I went back to school and earned a degree in the field, and now I am ready to transition into a career in this exciting and dynamic industry. With my diverse background and newly acquired skills, I am eager to take on new challenges and contribute to innovative projects. Let's connect and explore the possibilities!…
-Languages and Tools:
-css3 figma git html5 illustrator javascript nodejs photoshop php python vuejs xd
+
