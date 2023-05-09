@@ -1,7 +1,7 @@
 After gaining experience in multiple fields, I decided to pursue my passion for web and app development. I went back to school and earned a degree in the field, and now I am ready to transition into a career in this exciting and dynamic industry. With my diverse background and newly acquired skills, I am eager to take on new challenges and contribute to innovative projects. Let's connect and explore the possibilities!…
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/massinissaallam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="massinissaallam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/massinissaallam/" target="#"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="massinissaallam" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
