@@ -2,6 +2,7 @@ After gaining experience in multiple fields, I decided to pursue my passion for 
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/massinissaallam/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="massinissaallam" height="30" width="40" /></a>
+<a href="https://codepen.io/Mboy75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="massinissaallam" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
